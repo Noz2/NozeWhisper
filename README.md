@@ -28,3 +28,10 @@ next — and flags what you skipped. It advises; you hack.
 python3 nozewhisper.py scan.txt        # auto-detects the tool
 nmap -sV IP | python3 nozewhisper.py - # pipe straight in
 ```
+## NMAP Output : 
+<img width="849" height="274" alt="Screenshot_20260717_205326" src="https://github.com/user-attachments/assets/a0ecf601-c103-4bf8-878c-4517cad6cd3c" />
+
+
+## Our tool
+<img width="1159" height="379" alt="Screenshot_20260717_205749" src="https://github.com/user-attachments/assets/1e4dd8dc-a73e-46ea-bd79-4bfbbedd6448" />
+
